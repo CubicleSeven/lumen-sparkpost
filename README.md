@@ -5,7 +5,7 @@
 Install the package via composer
 
 ```bash
-composer require leandreaci/sparkpost
+composer require leandreaci/lumen-sparkpost
 ```
 
 - Add to load a mail.php from folder config/mail.php
